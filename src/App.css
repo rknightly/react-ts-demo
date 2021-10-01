@@ -1,0 +1,21 @@
+.App {
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.ant-card {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.postCard {
+  width: 50%;
+  
+}
+
+.commentCard {
+  width: 25%;
+}
